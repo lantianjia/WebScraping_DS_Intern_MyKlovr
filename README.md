@@ -3,7 +3,7 @@
 ## Project Purpose: 
             Scrape US college information to expand database for the further usage of model establishment
 
-## Python Modules Used: 
+### Python Modules Used: 
             Mainly used BeautifulSoup with the skill of regularization
 
 ## Aimed Webs: 
